@@ -2500,7 +2500,9 @@
     "URI": "https://en.wikipedia.org/wiki/Year",
     "dimensions": [],
     "symbols": [
-      "y"
+      "a",
+      "y",
+      "yr"
     ]
   },
   {
